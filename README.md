@@ -1,1 +1,2 @@
-# java_miniproject01
+# 자바 미니 프로젝트 01
+# 성적관리프로그램 (Java)
